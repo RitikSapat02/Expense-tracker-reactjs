@@ -1,5 +1,5 @@
-## Expense Tracker application 
-# Functionalities
+# Expense Tracker application 
+## Functionalities
 Implemented functionality for users to effortlessly add expenses, allowing them to input details such as the expense amount, category, and a specific date.
 
 Incorporated a sophisticated year-wise filtration system, enabling users to seamlessly navigate and review expenses based on distinct years. This feature enhances user experience by facilitating efficient organization and retrieval of financial data.
